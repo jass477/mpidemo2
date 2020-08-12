@@ -1,33 +1,4 @@
-hello world
-hello world
-hello world
-hello world
-hello world
-hello world
+Git is a distributed version control system.
+Git is free software.
 
-
-hello github
-hello github
-hello github
-hello github
-hello github
-
-
-hello github
-hello github
-hello github
-hello github
-hello github
-
-# commit 2
-hello github
-hello github
-hello github
-hello github
-
-# commit 3
-hello github
-hello github
-hello github
-hello github
 
